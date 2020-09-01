@@ -1,5 +1,5 @@
 {
-  "name": "taro-axios",
+  "name": "@flowkscai/taro-axios",
   "version": "1.1.1",
   "description": "在 Taro 中使用 axios。",
   "main": "lib/index.js",
@@ -10,6 +10,13 @@
     "email": "fjc0kb@gmail.com",
     "url": "https://github.com/fjc0k"
   },
+  "contributors": [
+    {
+      "name": "Kesi Cai",
+      "email": "kesi_tsai@163.com",
+      "url": "https://github.com/flowkscai"
+    }
+  ],
   "license": "MIT",
   "homepage": "https://github.com/fjc0k/taro-axios",
   "sideEffects": false,
