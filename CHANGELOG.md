@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.2.1"></a>
+## [1.2.1](https://github.com/fjc0k/taro-axios/compare/v1.2.0...v1.2.1) (2020-09-04)
+
+
+### Bug Fixes
+
+* PostData is not working if code compression is enabled ([fc83488](https://github.com/fjc0k/taro-axios/commit/fc83488))
+* typo ([b0dc765](https://github.com/fjc0k/taro-axios/commit/b0dc765))
+
+
+
 <a name="1.2.0"></a>
 # [1.2.0](https://github.com/fjc0k/taro-axios/compare/v1.1.1...v1.2.0) (2020-09-01)
 
