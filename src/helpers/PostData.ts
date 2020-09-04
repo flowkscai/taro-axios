@@ -23,6 +23,6 @@ export class PostData<T extends Record<string, any>> {
   }
 
   toString() {
-    return `[object ${PostData.name}]`
+    return `[object PostData]`
   }
 }
